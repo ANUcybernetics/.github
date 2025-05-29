@@ -4,9 +4,7 @@ This is the official GitHub organisation for the [ANU School of Cybernetics](htt
 
 ## Home of the Cybernetic Studio
 
-The Cybernetic Studio is a cybernetic community that makes things out of hardware/software/people/stuff to explore cybernetic systems/ideas. The Studio, led by [@benswift](https://github.com/benswift/), is place where ANU School of Cybernetics members (and external partners) come together to tinker, to try new ideas (and sometimes fail), and ultimately to build new things and new knowledge together.
-
-From the beginning of Cybernetics, material practice has been a key part of knowledge discovery. This includes Wiener’s hearing glove, Grey Walter’s tortoises, Ashby’s homeostat, Beer and Pask’s fungoid ‘whisper’ systems, and many more examples.
+From the beginning of Cybernetics, [material practice has been a key part of knowledge discovery](https://journals.sagepub.com/doi/10.1177/0306312702032003003). The Cybernetic Studio is a cybernetic community that makes things out of hardware/software/people/stuff to explore cybernetic systems/ideas. The Studio, led by [@benswift](https://github.com/benswift/), is place where ANU School of Cybernetics members (and external partners) come together to tinker, to try new ideas (and sometimes fail), and ultimately to build new things and new knowledge together.
 
 The Cybernetic Studio is committed to sharing the things we make through open source software. We do encourage you to have a look through the repos we've got hosted here and see the messiness and the [mangle of practice](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3642386.html) as our thinking evolves.  In some cases the software is useful standalone, but in others it's a one part of a broader hardware/software/experiential project. If you'd like to know more about the Cybernetic Studio or any of our projects, [get in touch](mailto:ben.swift@anu.edu.au).
 
