@@ -4,19 +4,17 @@ This is the official GitHub organisation for the [ANU School of Cybernetics](htt
 
 ## Home of the Cybernetic Studio
 
-The Cybernetic Studio is a cybernetic community that makes things out of hardware/software/people/stuff to explore cybernetic systems/ideas.
+The Cybernetic Studio is a cybernetic community that makes things out of hardware/software/people/stuff to explore cybernetic systems/ideas. The Studio, led by [@benswift](https://github.com/benswift/), is place where ANU School of Cybernetics members (and external partners) come together to tinker, to try new ideas (and sometimes fail), and ultimately to build new things and new knowledge together.
 
-From the beginning of Cybernetics, material practice has been a key part of knowledge discovery. This includes Wiener’s hearing glove, Grey Walter’s tortoises, Ashby’s homeostat, Beer and Pask’s fungoid ‘whisper’ systems, and many more examples. 
+From the beginning of Cybernetics, material practice has been a key part of knowledge discovery. This includes Wiener’s hearing glove, Grey Walter’s tortoises, Ashby’s homeostat, Beer and Pask’s fungoid ‘whisper’ systems, and many more examples.
 
-The Studio, led by [@benswift](https://github.com/benswift/), is place where ANU School of Cybernetics members (and external partners) come together to tinker, to try new ideas (and sometimes fail), and ultimately to build new things and new knowledge together.
-
-The Cybernetic Studio is committed to sharing the things we make through open source software. We do encourage you to have a look through the repos we've got hosted here and see the messiness and the [mangle of practice]([url](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3642386.html) as our thinking evolves.  In some cases the software is useful standalone, but in others the software is a part of a broader hardware/software/experiential project. If you'd like to know more about the Cybernetic Studio, [get in touch](mailto:ben.swift@anu.edu.au).
+The Cybernetic Studio is committed to sharing the things we make through open source software. We do encourage you to have a look through the repos we've got hosted here and see the messiness and the [mangle of practice](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3642386.html) as our thinking evolves.  In some cases the software is useful standalone, but in others it's a one part of a broader hardware/software/experiential project. If you'd like to know more about the Cybernetic Studio or any of our projects, [get in touch](mailto:ben.swift@anu.edu.au).
 
 Here's a selection of current projects we're particularly excited about.
 
 ## PANIC!
 
-[panic](https://github.com/ANUcybernetics/panic) (and the related [panic-tda](https://github.com/ANUcybernetics/panic-tda)) is a hybrid genAI art installation/complex information processing simulation based around feeding the inputs of various genAI text/image/audio/video models back in to one another in endless feedback loops. If you want to come an see the artwork in person it's permanently installed in the ANU Birch Building (Level 3), but it also travels around (stay tuned to the [School of Cybnernetics website](https://cybernetics.anu.edu.au) for tour dates).
+[PANIC!](https://github.com/ANUcybernetics/panic) (and the related [panic-tda](https://github.com/ANUcybernetics/panic-tda)) is a hybrid genAI art installation/complex information processing simulation based around feeding the inputs of various genAI text/image/audio/video models back in to one another in endless feedback loops. If you want to come an see the artwork in person it's permanently installed in the ANU Birch Building (Level 3), but it also travels around (stay tuned to the [School of Cybnernetics website](https://cybernetics.anu.edu.au) for tour dates).
 
 ## Human-Scale AI
 
